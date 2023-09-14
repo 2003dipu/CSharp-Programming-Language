@@ -1,0 +1,14 @@
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\bin\Debug\net7.0\NumberGuessing.exe
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\bin\Debug\net7.0\NumberGuessing.deps.json
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\bin\Debug\net7.0\NumberGuessing.runtimeconfig.json
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\bin\Debug\net7.0\NumberGuessing.dll
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\bin\Debug\net7.0\NumberGuessing.pdb
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\obj\Debug\net7.0\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\obj\Debug\net7.0\NumberGuessing.AssemblyInfoInputs.cache
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\obj\Debug\net7.0\NumberGuessing.AssemblyInfo.cs
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\obj\Debug\net7.0\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\obj\Debug\net7.0\NumberGuessing.dll
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\obj\Debug\net7.0\refint\NumberGuessing.dll
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\obj\Debug\net7.0\NumberGuessing.pdb
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\obj\Debug\net7.0\NumberGuessing.genruntimeconfig.cache
+C:\sharp\NumberGuessingGame\Game\NumberGuessing\obj\Debug\net7.0\ref\NumberGuessing.dll
