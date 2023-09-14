@@ -1,0 +1,14 @@
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\bin\Debug\net7.0\fizzBuzz.exe
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\bin\Debug\net7.0\fizzBuzz.deps.json
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\bin\Debug\net7.0\fizzBuzz.runtimeconfig.json
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\bin\Debug\net7.0\fizzBuzz.dll
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\bin\Debug\net7.0\fizzBuzz.pdb
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\obj\Debug\net7.0\fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\obj\Debug\net7.0\fizzBuzz.AssemblyInfoInputs.cache
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\obj\Debug\net7.0\fizzBuzz.AssemblyInfo.cs
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\obj\Debug\net7.0\fizzBuzz.csproj.CoreCompileInputs.cache
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\obj\Debug\net7.0\fizzBuzz.dll
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\obj\Debug\net7.0\refint\fizzBuzz.dll
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\obj\Debug\net7.0\fizzBuzz.pdb
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\obj\Debug\net7.0\fizzBuzz.genruntimeconfig.cache
+C:\sharp\FizzBuzz Challenge\Challenge\fizzBuzz\obj\Debug\net7.0\ref\fizzBuzz.dll
