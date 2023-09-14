@@ -1,0 +1,14 @@
+C:\sharp\parameters in methods\CSharpMethods\parameters\bin\Debug\net7.0\parameters.exe
+C:\sharp\parameters in methods\CSharpMethods\parameters\bin\Debug\net7.0\parameters.deps.json
+C:\sharp\parameters in methods\CSharpMethods\parameters\bin\Debug\net7.0\parameters.runtimeconfig.json
+C:\sharp\parameters in methods\CSharpMethods\parameters\bin\Debug\net7.0\parameters.dll
+C:\sharp\parameters in methods\CSharpMethods\parameters\bin\Debug\net7.0\parameters.pdb
+C:\sharp\parameters in methods\CSharpMethods\parameters\obj\Debug\net7.0\parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\sharp\parameters in methods\CSharpMethods\parameters\obj\Debug\net7.0\parameters.AssemblyInfoInputs.cache
+C:\sharp\parameters in methods\CSharpMethods\parameters\obj\Debug\net7.0\parameters.AssemblyInfo.cs
+C:\sharp\parameters in methods\CSharpMethods\parameters\obj\Debug\net7.0\parameters.csproj.CoreCompileInputs.cache
+C:\sharp\parameters in methods\CSharpMethods\parameters\obj\Debug\net7.0\parameters.dll
+C:\sharp\parameters in methods\CSharpMethods\parameters\obj\Debug\net7.0\refint\parameters.dll
+C:\sharp\parameters in methods\CSharpMethods\parameters\obj\Debug\net7.0\parameters.pdb
+C:\sharp\parameters in methods\CSharpMethods\parameters\obj\Debug\net7.0\parameters.genruntimeconfig.cache
+C:\sharp\parameters in methods\CSharpMethods\parameters\obj\Debug\net7.0\ref\parameters.dll
