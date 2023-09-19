@@ -1,0 +1,14 @@
+C:\sharp\even-odd-number\bin\Debug\net7.0\even-odd-number.exe
+C:\sharp\even-odd-number\bin\Debug\net7.0\even-odd-number.deps.json
+C:\sharp\even-odd-number\bin\Debug\net7.0\even-odd-number.runtimeconfig.json
+C:\sharp\even-odd-number\bin\Debug\net7.0\even-odd-number.dll
+C:\sharp\even-odd-number\bin\Debug\net7.0\even-odd-number.pdb
+C:\sharp\even-odd-number\obj\Debug\net7.0\even-odd-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\sharp\even-odd-number\obj\Debug\net7.0\even-odd-number.AssemblyInfoInputs.cache
+C:\sharp\even-odd-number\obj\Debug\net7.0\even-odd-number.AssemblyInfo.cs
+C:\sharp\even-odd-number\obj\Debug\net7.0\even-odd-number.csproj.CoreCompileInputs.cache
+C:\sharp\even-odd-number\obj\Debug\net7.0\even-odd-number.dll
+C:\sharp\even-odd-number\obj\Debug\net7.0\refint\even-odd-number.dll
+C:\sharp\even-odd-number\obj\Debug\net7.0\even-odd-number.pdb
+C:\sharp\even-odd-number\obj\Debug\net7.0\even-odd-number.genruntimeconfig.cache
+C:\sharp\even-odd-number\obj\Debug\net7.0\ref\even-odd-number.dll
