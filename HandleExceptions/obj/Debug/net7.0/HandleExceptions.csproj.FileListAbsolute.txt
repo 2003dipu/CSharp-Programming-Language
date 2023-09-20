@@ -1,0 +1,14 @@
+C:\sharp\exceptionHandling\HandleExceptions\bin\Debug\net7.0\HandleExceptions.exe
+C:\sharp\exceptionHandling\HandleExceptions\bin\Debug\net7.0\HandleExceptions.deps.json
+C:\sharp\exceptionHandling\HandleExceptions\bin\Debug\net7.0\HandleExceptions.runtimeconfig.json
+C:\sharp\exceptionHandling\HandleExceptions\bin\Debug\net7.0\HandleExceptions.dll
+C:\sharp\exceptionHandling\HandleExceptions\bin\Debug\net7.0\HandleExceptions.pdb
+C:\sharp\exceptionHandling\HandleExceptions\obj\Debug\net7.0\HandleExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\sharp\exceptionHandling\HandleExceptions\obj\Debug\net7.0\HandleExceptions.AssemblyInfoInputs.cache
+C:\sharp\exceptionHandling\HandleExceptions\obj\Debug\net7.0\HandleExceptions.AssemblyInfo.cs
+C:\sharp\exceptionHandling\HandleExceptions\obj\Debug\net7.0\HandleExceptions.csproj.CoreCompileInputs.cache
+C:\sharp\exceptionHandling\HandleExceptions\obj\Debug\net7.0\HandleExceptions.dll
+C:\sharp\exceptionHandling\HandleExceptions\obj\Debug\net7.0\refint\HandleExceptions.dll
+C:\sharp\exceptionHandling\HandleExceptions\obj\Debug\net7.0\HandleExceptions.pdb
+C:\sharp\exceptionHandling\HandleExceptions\obj\Debug\net7.0\HandleExceptions.genruntimeconfig.cache
+C:\sharp\exceptionHandling\HandleExceptions\obj\Debug\net7.0\ref\HandleExceptions.dll
